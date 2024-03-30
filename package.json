@@ -1,0 +1,15 @@
+{
+  "name": "dados-tg",
+  "version": "1.0.0",
+  "description": "Script para gerar dados randomicamente",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^4.4.0"
+  }
+}
